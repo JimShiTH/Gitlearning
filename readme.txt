@@ -6,3 +6,5 @@ Creating a new branch is quick and simple!
 Change in master branch.
 Change in dev branch.
 I am doing my work ...
+I am doing my work with a partner.
+Another guy doing modification.
